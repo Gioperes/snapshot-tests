@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import renderer from 'react-test-renderer';
+// import renderer from 'react-test-renderer';
 
 function App() {
   return (
